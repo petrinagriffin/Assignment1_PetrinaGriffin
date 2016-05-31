@@ -15,12 +15,12 @@ body {
 	margin-bottom: 25px;
 }
 
-	nav {
+nav {
 	font-weight: bold;
 	padding-top: 10px;
 }
 
-	nav span {
+nav span {
 	font-style: italic;
 }
 
@@ -70,7 +70,7 @@ lighter {
 }
 
 p {
-  margin-top: 0;	
+  margin-top: 0;
   font-family: serif;
   font-size: 18px;
   color: #202020;
@@ -87,16 +87,15 @@ li {
 
 img {
 	margin-left: 10px;
-    margin-bottom: 30px;
-    padding: 5px;
+  margin-bottom: 30px;
+  padding: 5px;
 	border: 1px solid #202020;
 }
 
-a {	
+a {
 	color: #202020;
 	font-size: 16px;
 	font-weight: bold;
 	font-family: helvetica, sans-serif;
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
-
