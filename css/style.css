@@ -15,12 +15,12 @@ body {
 	margin-bottom: 25px;
 }
 
-nav {
+	nav {
 	font-weight: bold;
 	padding-top: 10px;
 }
 
-nav span {
+	nav span {
 	font-style: italic;
 }
 
@@ -57,45 +57,47 @@ h4 {
 	font-family: sans-serif;
 	font-weight: lighter;
 	margin-bottom: 4px;
-	margin-top: 10px;
+	margin-top: 8px;
 }
 
 strong {
-  color: #202020;
-  font-style: italic;
+  	color: #202020;
+  	font-style: italic;
 }
 
 lighter {
-  color: #909090;
+  	color: #909090;
 }
 
 p {
-  margin-top: 0;
-  font-family: serif;
-  font-size: 18px;
-  color: #202020;
-  text-align: left;
+   	text-align: left;
+   	font-family: serif;
+   	font-size: 18px;
+   	color: #202020;
+   	margin-bottom: 20px;
+	margin-top: 8px;
 }
 
 ul {
-  list-style: square;
+  	list-style: square;
 }
 
 li {
-  color: #202020;
+  	color: #202020;
 }
 
 img {
 	margin-left: 10px;
-  margin-bottom: 30px;
-  padding: 5px;
+    margin-bottom: 30px;
+    padding: 5px;
 	border: 1px solid #202020;
 }
 
-a {
+a {	
 	color: #202020;
 	font-size: 16px;
 	font-weight: bold;
 	font-family: helvetica, sans-serif;
-  margin-bottom: 30px;
+    margin-bottom: 30px;
 }
+
